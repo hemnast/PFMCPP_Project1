@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: kettle
+//  action 1: the kettle is boiling 
+kettle.boil(); 
+//  action 2: the kettle is cooling down 
+kettle.cool();
+//  action 3: the kettle is falling 
+kettle.fall();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: finger
+//  action 1: the finger is pointing upwards
+finger.pointUpwards();
+//  action 2: the finger is pointing downwards
+finger.pointDownwards();
+//  action 3: the finger is pulling a trigger
+finger.pullTrigger();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: car
+//  action 1: the car is driving forwards 
+car.driveForwards();
+//  action 2: the car is driving backwards
+car.driveBackwards();
+//  action 3: the car is breaking
+car.break();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: mouse
+//  action 1: the mouse is running
+mouse.run();
+//  action 2: the mouse is sleeping
+mouse.sleep();
+//  action 3: the mouse is hiding
+mouse.hide();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: turbine 
+//  action 1: the turbine is rotating
+turbine.rotate();
+//  action 2: the turbine is generating electricity 
+turbine.generateElectricity();
+//  action 3: the turbine is powering the city
+turbine.powerCity();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: university
+//  action 1: the university is enrolling new students
+uni.enrollNewStudents();
+//  action 2: the university is opening a library
+uni.openingLibrary();
+//  action 3: the university is hiring tutors
+uni.hiringTutors();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: farmland
+//  action 1: the farmland is growing onions
+farmland.growingOnions();
+//  action 2: the farmland is growing sweetcorn
+farmland.growingCorn();
+//  action 3: the farmland is growing potatoes
+farmland.growingPotatoes();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: singer
+//  action 1: the singer is performing tonight
+singer.performingTonight();
+//  action 2: the singer is hiring a manager
+singer.hiringManager();
+//  action 3: the singer is learning to code
+singer.learningCoding();
+//  9) 
+//  Noun: computer
+//  action 1: the computer is reading data
+pc.readsData();
+//  action 2: the computer is analysing statistics
+pc.analyseStatistics();
+//  action 3: the computer is rendering graphics
+pc.renderGraphics();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: theatre
+//  action 1: the theatre is hiring actors
+theatre.hiringActors();
+//  action 2: the theatre is showing shakespeare
+theatre.perfShakespeare();
+//  action 3: the theatre is closing
+theatre.closing();
 
 
 #endif
