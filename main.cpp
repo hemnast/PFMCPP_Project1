@@ -74,7 +74,7 @@ car.driveForwards();
 //  action 2: the car is driving backwards
 car.driveBackwards();
 //  action 3: the car is breaking
-car.break();
+car.breaks();
 //  4)
 //  Noun: mouse
 //  action 1: the mouse is running
